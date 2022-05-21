@@ -1,2 +1,3 @@
 # Remaps keys in Windows
-That's it
+Use the SKL files with SharpKeys from here
+https://github.com/randyrants/sharpkeys
