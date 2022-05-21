@@ -1,2 +1,2 @@
-# windows-tweaks
-collection of tweaks, registry settings, batch files, etc
+# Remaps keys in Windows
+That's it
