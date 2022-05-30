@@ -10,4 +10,4 @@ pause
 
 echo set DNS back to DHCP
 netsh interface ipv4 set dns "Ethernet" dhcp
-sleep 5
+TIMEOUT /T 10
