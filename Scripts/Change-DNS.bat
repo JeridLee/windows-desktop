@@ -10,3 +10,4 @@ pause
 
 :: set DNS back to DHCP
 netsh interface ipv4 set dns "Ethernet" dhcp
+exit
